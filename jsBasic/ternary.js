@@ -13,3 +13,5 @@ if (age >= 18) {
     drink = 'juice';
 }
 console.log(drink);
+
+//
